@@ -11,6 +11,8 @@ Bias Detected: The baseline model disproportionately penalized male applicants, 
 
 Bias Mitigated: Using a ThresholdOptimizer with constraints for Demographic Parity, we successfully equalized the selection rates to ~41% for both groups.
 
+![Fairness Audit Chart](fairness_chart.png)
+
 📂 Repository Structure
 fairness_analysis.ipynb: The complete Python code for the model and audit.
 
